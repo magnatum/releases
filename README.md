@@ -9,7 +9,7 @@ If you get dependencies errors then it means you are missing one of these: <br>
 libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-dev <br>
 Install by sudo apt-get install libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-dev <br>
 <br>
-Contributed by Itamar Carvalho<br>
+Contributed by Itamar Carvalho for Arch Linux <br><br>
 First of all we need to install the dependencies, if you miss something<br>
 sudo pacman -S boost-libs desktop-file-utils libevent miniupnpc protobuf qrencode qt5-base zeromq<br>
 Then we need to link the old version that signatum asks for the newest version that we have installed<br>
