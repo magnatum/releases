@@ -1,3 +1,3 @@
 # releases
-Wallets and Essentials
+Wallets and Essentials <br>
 Signatum releases for Windows, Linux, ARM and more.
