@@ -1,5 +1,5 @@
 # releases
-Wallets and Essentials <br>
+Wallets and Essentials <br><br>
 Signatum releases for Windows, Linux, ARM and more.<br>
 <br>
 Instructions for Linux Qt depends.
